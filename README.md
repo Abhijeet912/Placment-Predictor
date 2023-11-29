@@ -12,7 +12,7 @@ User-friendly web interface for inputting details and receiving predictions.</p>
 <h3>Usage</h3>
 Clone the Repository:
 <bold>Copy code</bold>
-git clone https://github.com/yourusername/campus-placement-predictor.git
+git clone https://github.com/Abhijeet912/campus-placement-predictor.git
 <hr>
 <bold>Install Dependencies:</bold>
 pip install -r requirements.txt
