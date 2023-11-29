@@ -6,9 +6,9 @@
 Displays the probability of placement along with a personalized message.
 User-friendly web interface for inputting details and receiving predictions.</p>
 <h3>Technologies Used</h3>
-Flask: A Python web framework.
-Pickle: For loading the pre-trained Random Forest machine learning model.
-HTML and Jinja: Templates for rendering dynamic content.
+<li>Flask: A Python web framework.</li>
+<li>Pickle: For loading the pre-trained Random Forest machine learning model.</li>
+<li>HTML and Jinja: Templates for rendering dynamic content.</li>
 <h3>Usage</h3>
 Clone the Repository:
 <bold>Copy code</bold>
